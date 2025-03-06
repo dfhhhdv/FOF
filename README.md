@@ -1,7 +1,6 @@
-# FOF
-FOF -- FILE ON FIRE 🔥
+cd && rm -rf FOF
 
-git clone https://github.com/BANTUBD/FOF
+git clone https://github.com/Hannan-404/FOF
 
 git pull
 
