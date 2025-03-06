@@ -1,5 +1,5 @@
 # FOF
-FOF -- FILE ON FIRE 🔥
+FOF -- FILE ON FIRE.py 🔥
 
 git clone https://github.com/BANTUBD/FOF
 
