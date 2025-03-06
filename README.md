@@ -1,5 +1,5 @@
 # FOF
-FOF -- FILE ON FIRE 🔥
+rm -rf FOF
 
 git clone https://github.com/BANTUBD/FOF
 
